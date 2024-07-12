@@ -306,7 +306,7 @@ section .main_banner .main2>li {
 }
 
 section .main_banner .main2>li:nth-child(1) {
-  background-image: url(images/cu_jpg\ \(3\).jpg);
+  background-image: url(../images/cu_jpg\ \(3\).jpg);
   background-size: contain;
   /* left: -125px;
     top: 0; */
@@ -315,7 +315,7 @@ section .main_banner .main2>li:nth-child(1) {
 }
 
 section .main_banner .main2>li:nth-child(2) {
-  background-image: url(images/cu_jpg\ \(4\).jpg);
+  background-image: url(../images/cu_jpg\ \(4\).jpg);
   background-size: contain;
   /* left: 600px;
     top: 0px; */
@@ -323,7 +323,7 @@ section .main_banner .main2>li:nth-child(2) {
 }
 
 section .main_banner .main2>li:nth-child(3) {
-  background-image: url(images/cu_jpg\ \(5\).jpg);
+  background-image: url(../images/cu_jpg\ \(5\).jpg);
   background-size: contain;
   /* left: 1325px;
     top: 0px; */
@@ -1229,7 +1229,7 @@ section .story>ul .story_box>p {
 
 /* -------------==========000000000  brand_img-------- */
 section .brand_img {
-  background-image: url(images/cu_png\ \(10\).png);
+  background-image: url(../images/cu_png\ \(10\).png);
   background-repeat: no-repeat;
   background-size: 100%;
   width: 100%;
